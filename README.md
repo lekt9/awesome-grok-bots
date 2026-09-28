@@ -54,6 +54,7 @@ One job. Draft or wait for approval.
 - [Stripe AI](https://github.com/stripe/ai) - Payments and billing objects, including test mode.
 - [Vercel plugin](https://github.com/vercel/vercel-plugin) - Deployments, logs, and domains.
 - [orgx-grokbot-plugin](https://github.com/useorgx/orgx-grokbot-plugin) - OrgX MCP wiring and specialist agent packs in `.grok-plugin` format.
+- [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Hosted MCP and Cursor plugin that reads pages as markdown and runs site tasks through learned APIs, so the bot skips clicking through its browser.
 
 ## Engineering
 
